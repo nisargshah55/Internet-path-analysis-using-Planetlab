@@ -1,0 +1,4 @@
+16  * * *
+16  * * *
+16  * * *
+13  * tel-netedgepe-po10.tcom.purdue.edu (192.5.40.9)  246.142 ms  246.136 ms

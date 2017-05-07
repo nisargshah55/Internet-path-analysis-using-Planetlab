@@ -1,0 +1,7 @@
+19  planetlab1.cs.uml.edu (129.63.159.101)  258.070 ms  204.648 ms *
+19  planetlab1.cs.uml.edu (129.63.159.101)  196.358 ms  193.883 ms *
+19  planetlab1.cs.uml.edu (129.63.159.101)  268.773 ms  268.161 ms *
+19  planetlab1.cs.uml.edu (129.63.159.101)  221.962 ms  210.317 ms *
+19  planetlab1.cs.uml.edu (129.63.159.101)  207.592 ms  207.416 ms *
+19  * * planetlab1.cs.uml.edu (129.63.159.101)  203.927 ms
+19  planetlab1.cs.uml.edu (129.63.159.101)  192.317 ms  192.174 ms *
